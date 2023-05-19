@@ -10,7 +10,7 @@ For example, the following strings are alphabetical: "a", "ba", "ab", "bac" and 
 
 From the given string, determine if it is alphabetical.
 
-Input:
+Input:-
 The first line contains one integer t (1≤t≤104) — the number of test cases. Then t test cases follow.
 
 Each test case is written on a separate line that contains one string s. String s consists of lowercase letters of the Latin alphabet and has a length between 1 and 26, inclusive.
